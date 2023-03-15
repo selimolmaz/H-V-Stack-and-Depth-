@@ -43,7 +43,7 @@ struct ContentView: View {
                         .font(.caption)
                     }
                 // Cover Letter
-                Text("Come visit the monke with some snacks. İt is gonna happy with that :3")
+                Text("Come to visit us, The monke will likes you if you come along with some snacks. It is gonna happy with that :3")
                 // symbols
                 HStack{
                     Spacer()
